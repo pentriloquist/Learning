@@ -1,0 +1,33 @@
+h1 {
+   font-family: Cursive;
+   color: darkblue;
+   text-align: center;
+   opacity: .80;
+}
+.thesis {
+        font-family: Comic Sans MS;
+        color: black;
+        text-align: center
+}
+.instructions {
+      font-family: Heltevica;
+}
+h3 {
+   text-decoration: underline;
+}
+li {
+   line-height: 1.5;
+}
+table {
+  border: 2px solid black;
+  width: 325px;
+  margin: 0 auto;
+}
+thead {
+  background-color: black;
+  color: white;
+}
+
+td {
+  border-top: 1px solid black;
+}
